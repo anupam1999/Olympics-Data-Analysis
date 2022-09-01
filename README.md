@@ -1,5 +1,5 @@
 # Olympics-Data-Analysis
-Developed  a streamlit web application  which provides \custombold{98-99 percentage} olympic data having overall analysis,country-wise analysis and Athlete wise analysis.  
+Developed  a streamlit web application  which provides 98-99 % olympic data having overall analysis,country-wise analysis and Athlete wise analysis.  
 
 
 ## To run the project follow these simple steps:  
