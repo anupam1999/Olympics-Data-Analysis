@@ -16,4 +16,4 @@ Developed  a streamlit web application  which provides 98-99 % olympic data havi
 
 
 ### Live Link
-https://movie-recommender-anupam1499.herokuapp.com/
+https://olympic-analysis-anupam1499.herokuapp.com/
